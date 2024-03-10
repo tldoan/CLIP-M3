@@ -1,6 +1,6 @@
 # A streamlined Approach to Multimodal Few-Shot Class Incremental Learning for Fine-Grained Datasets (CLIP-M3)
 
-We release our three introduced fine-grained datasets 
+We release our three introduced fine-grained datasets below: (Code coming soon) 
 
 ## FGVCAircraft
 
