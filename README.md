@@ -21,7 +21,9 @@ unzip stanford-cars-dataset.zip;
 ```
 
 ## iNF200
-Train and test sets available [here](https://huggingface.co/datasets/tldoan/iNF200/tree/main)
+Our dataset is comprised of the 200 first Fungi classes from [iNaturalist](https://github.com/visipedia/inat_comp/tree/master/2021).
+Train and test sets available [here](https://huggingface.co/datasets/tldoan/iNF200/tree/main).
+Since the labels for the test set are not available, we used the validation set for evaluation.
 
 ['iNF200_dict.pkl'](https://huggingface.co/datasets/tldoan/iNF200/tree/main) contains:
 - Train set meta data
