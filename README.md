@@ -1,6 +1,11 @@
 # A streamlined Approach to Multimodal Few-Shot Class Incremental Learning for Fine-Grained Datasets (CLIP-M3)
 
+[Preprint](https://arxiv.org/abs/2403.06295)
+
 We release our three introduced fine-grained datasets below: (Code coming soon) 
+
+
+
 
 ## FGVCAircraft
 
@@ -30,3 +35,5 @@ Since the labels for the test set are not available, we used the validation set 
 - Test set meta data
 - labels to classnames
 - classname to label
+
+  
